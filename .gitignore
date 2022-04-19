@@ -30,3 +30,25 @@
 *.exe
 *.out
 *.app
+
+bin/
+build/
+build_gcc/
+_build/
+include/
+output/
+lib/
+old/
+
+# PyCharm and VScode directories
+.idea/
+.vscode/
+
+*.zip
+
+# VI swap files
+*.swp
+
+CMakeFiles
+cmake_install.cmake
+Makefile
