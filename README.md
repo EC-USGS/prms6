@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# prms6
 PRMS version 6
 =======
 # PRMS
