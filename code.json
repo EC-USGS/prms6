@@ -1,0 +1,46 @@
+[
+  {
+    "name": "prms6",
+    "organization": "U.S. Geological Survey",
+    "description": "Precipitation-Runoff Modeling System version 6 is a modular, physically based, distributed-parameter hydrologic model. It is designed to simulate the effects of precipitation on streamflow and other hydrologic components in a watershed.",
+    "version": "6.0.0",
+    "status": "Development",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://raw.githubusercontent.com/DOI-USGS/prms6/refs/heads/development/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://github.com/DOI-USGS/prms6",
+    "downloadURL": "https://github.com/DOI-USGS/prms6/archive/refs/heads/development.zip",
+    "disclaimerURL": "https://raw.githubusercontent.com/DOI-USGS/prms6/refs/heads/development/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/DOI-USGS/prms6.git",
+    "vcs": "git",
+
+    "laborHours": -1,
+
+    "tags": [
+      "USGS",
+      "PRMS",
+      "hydrology"
+    ],
+
+    "languages": [
+      "Fortran"
+    ],
+
+    "contact": {
+      "name": "Parker Norton",
+      "email": "pnorton@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2025-05-22"
+    }
+  }
+]
