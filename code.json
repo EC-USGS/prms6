@@ -11,14 +11,14 @@
       "licenses": [
         {
           "name": "Public Domain, CC0-1.0",
-          "URL": "https://raw.githubusercontent.com/DOI-USGS/prms6/refs/heads/development/LICENSE.md"
+          "URL": "https://raw.githubusercontent.com/DOI-USGS/prms6/refs/heads/main/LICENSE.md"
         }
       ]
     },
 
     "homepageURL": "https://github.com/DOI-USGS/prms6",
-    "downloadURL": "https://github.com/DOI-USGS/prms6/archive/refs/heads/development.zip",
-    "disclaimerURL": "https://raw.githubusercontent.com/DOI-USGS/prms6/refs/heads/development/DISCLAIMER.md",
+    "downloadURL": "https://github.com/DOI-USGS/prms6/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://raw.githubusercontent.com/DOI-USGS/prms6/refs/heads/main/DISCLAIMER.md",
     "repositoryURL": "https://github.com/DOI-USGS/prms6.git",
     "vcs": "git",
 
