@@ -52,3 +52,6 @@ old/
 CMakeFiles
 cmake_install.cmake
 Makefile
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
